@@ -5,8 +5,8 @@ import { Button } from 'antd'
 
 import './Home.scss'
 
-import { Layout, Menu, Breadcrumb } from 'antd'
-const { Header, Content, Footer } = Layout
+import { Layout, Menu } from 'antd'
+const { Header, Content } = Layout
 
 const Home = () => {
   return (

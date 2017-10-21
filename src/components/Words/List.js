@@ -1,7 +1,5 @@
 import React from 'react'
 
-import { Table, Icon } from 'antd'
-
 const List = (props) => {
   console.log('RENDER LIST')
 
